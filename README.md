@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Bukola Oni
-- 👀 I’m passionate about cloud technology and always eager to learn more about how to leverage innovative solutions.
-- 🌱 I’m currently a student of Cloud Engineering with @AltSchool Africa(https://altschoolafrica.com), where I'm gaining in-depth knowledge and practical skills in cloud technologies.
-- 💞️ I’m looking to collaborate. Let's connect and create something amazing together!
+- ## Hi, I'm Bukola Oni 👋🏿
+- 👀 I am passionate about cloud technology and always eager to learn more about how to leverage innovative solutions.
+- 🌱 I am currently a Cloud Engineering student at AltSchool Africa(https://altschoolafrica.com),gaining in-depth knowledge and hands-on skills in cloud technologies.
+- 💞️ I am open to contributing  to projects and collaborating  with others within  the community.
 - 📫 How to reach me -twitter:@JackieJ97 whatsapp:+2349030792545. 📩 jenniferoni03@gmail.com
 
 <!---
